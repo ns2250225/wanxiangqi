@@ -7,11 +7,11 @@ const CAMP_COLOR = {
 const Q_COLOR = ['#666', '#a7b1ba', '#52c46a', '#3f95ff', '#b06cff', '#ffa726', '#ff4d6d'];
 const Q_NAME = ['', '一阶', '二阶', '三阶', '四阶', '五阶', '六阶'];
 const ART_FILES = {
-  heroes0: 'assets/generated/heroes-01.png', heroes1: 'assets/generated/heroes-02.png',
-  heroes2: 'assets/generated/heroes-03.png', heroes3: 'assets/generated/heroes-04.png',
-  heroes4: 'assets/generated/heroes-05.png', heroes5: 'assets/generated/heroes-06.png',
-  masters: 'assets/generated/master-avatars.png', icons: 'assets/generated/card-icons.png',
-  summons: 'assets/generated/summons.png', board: 'assets/generated/battle-board.png'
+  heroes0: 'assets/generated/heroes-01.webp', heroes1: 'assets/generated/heroes-02.webp',
+  heroes2: 'assets/generated/heroes-03.webp', heroes3: 'assets/generated/heroes-04.webp',
+  heroes4: 'assets/generated/heroes-05.webp', heroes5: 'assets/generated/heroes-06.webp',
+  masters: 'assets/generated/master-avatars.webp', icons: 'assets/generated/card-icons.webp',
+  summons: 'assets/generated/summons.webp', board: 'assets/generated/battle-board.webp'
 };
 
 const Art = {
